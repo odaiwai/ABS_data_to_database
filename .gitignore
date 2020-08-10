@@ -1,0 +1,6 @@
+*.sqlite
+*~
+.DS_Store
+tmp
+*.zip
+
