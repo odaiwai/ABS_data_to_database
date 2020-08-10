@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+build_all_tables	02_database/build_database.pl	/^sub build_all_tables {$/;"	s
+build_single_table	02_database/build_database.pl	/^sub build_single_table {$/;"	s
+dbdo	02_database/build_database.pl	/^sub dbdo {$/;"	s
+dbstructure_from_headers	02_database/build_database.pl	/^sub dbstructure_from_headers {$/;"	s
+drop_all_tables	02_database/build_database.pl	/^sub drop_all_tables {$/;"	s
+extract_zip_to_tmp	02_database/build_database.pl	/^sub extract_zip_to_tmp {$/;"	s
+files_in_dir	02_database/build_database.pl	/^sub files_in_dir {$/;"	s
+make_db	02_database/build_database.pl	/^sub make_db {$/;"	s
+querydb	02_database/build_database.pl	/^sub querydb {$/;"	s
+sanitise_line_for_input	02_database/build_database.pl	/^sub sanitise_line_for_input {$/;"	s
+table_name_from_filename	02_database/build_database.pl	/^sub table_name_from_filename {$/;"	s
+type_from_data	02_database/build_database.pl	/^sub type_from_data {$/;"	s
