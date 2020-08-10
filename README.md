@@ -7,5 +7,5 @@ heirarchical system decsribes each state and territory from the single entity
 down to approximately street blocks (or equivalent).
 
 This current build uses the 2011 data, however it should work for the 2016 and
-subsequenet data also.
+subsequent data also.
 
